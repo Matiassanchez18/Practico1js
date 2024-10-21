@@ -62,5 +62,5 @@ for (let i = 1; i <= 10; i++) {
 }
 // join une todos los elementos de una array en forma de cadena
 document.write(
-  `<p> Las calificaciones que se repitieron más veces es: ${modas.join(", ")}`+ '<p/>'
+  `<p> Las calificaciones que se repitieron más veces es : ${modas.join(", ")}`+ '<p/>'
 );
